@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "extra-life-api": "^6.0.1",
+    "tmi.js": "^1.8.5"
+  },
+  "name": "extralife-twitch-bridge",
+  "description": "Add extra features to your Twitch chat from Extra Life",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stjohnjohnson/extralife-twitch-bridge.git"
+  },
+  "author": "St. John Johnson <st.john.johnson@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stjohnjohnson/extralife-twitch-bridge/issues"
+  },
+  "homepage": "https://github.com/stjohnjohnson/extralife-twitch-bridge#readme"
+}
