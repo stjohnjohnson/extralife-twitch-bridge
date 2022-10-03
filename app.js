@@ -1,6 +1,7 @@
 import { getUserInfo, getUserDonations } from 'extra-life-api';
 import dotenv, { config } from 'dotenv';
 import tmi from 'tmi.js';
+import 'log-timestamp';
 
 // Load config from disk
 dotenv.config();

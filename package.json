@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "discord.js": "^14.4.0",
     "dotenv": "^16.0.2",
     "extra-life-api": "^7.1.0",
+    "log-timestamp": "^0.3.0",
     "tmi.js": "^1.8.5"
   },
   "name": "extralife-twitch-bridge",
   "description": "Add extra features to your Twitch chat from Extra Life",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "main.js",
   "type": "module",
   "scripts": {
