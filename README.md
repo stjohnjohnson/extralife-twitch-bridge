@@ -26,6 +26,8 @@ $ docker run --rm -it --env-file .env stjohnjohnson/extralife-twitch-bridge
 [21:11] info: [#stjohnjohnson] <stjohnbot>: St. John Johnson has raised $128.10 out of $10,000.00 (1%)
 ```
 
+![Stream Chat](https://user-images.githubusercontent.com/622065/194124072-f0fd26a0-bff4-4901-9e3e-3277d2a73e1b.png)
+
 ## Features
 
 ### Donation Sharing
